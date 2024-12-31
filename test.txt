@@ -6,5 +6,3 @@ hello??
 
 i'm dev1
 i'm dev2
-
-i'm minjong. hello
